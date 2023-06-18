@@ -1,0 +1,25 @@
+*{
+    scroll-behavior: smooth;
+}
+.Title{
+    
+    margin-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 50px auto;
+}
+
+.pagination{
+    margin-bottom: 70px;
+    align-items: center;
+}
+
+.search{
+    margin: 70px auto;
+}
+.search input{
+    width: 70%;
+    height: 60px;
+    border: 2px solid #1b243a;
+   }
